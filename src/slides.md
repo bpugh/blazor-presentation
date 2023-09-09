@@ -786,16 +786,16 @@ mockedHttpClient.VerifyNoOutstandingExpectation();
 
 ### Resources
 
+* [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor)
 * [99 Bottles — book by Sandi Metz](https://sandimetz.com/99bottles)
-* https://testing-library.com/docs/queries/about#priority (DOM query priority)
 * [Don't Sync State. Derive It](https://kentcdodds.com/blog/dont-sync-state-derive-it)
 * [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
 * [Blazor state management](https://jonhilton.net/blazor-state-management/)
 
 ---
 ### Resources cont.
-* [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor)
 * [Fluxor](https://github.com/mrpmorris/Fluxor)
+* [Testing Library Query Priority](https://testing-library.com/docs/queries/about#priority) (DOM query priority)
 * [How to Have an Amicable Breakup With A JavaScript Library | Youtube](https://www.youtube.com/watch?v=ZIIeBOLOgTw)
 
 

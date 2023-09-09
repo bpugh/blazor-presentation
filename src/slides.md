@@ -13,7 +13,7 @@ Note: Hi everyone, and thanks for coming to hear me talk about "Blazor best prac
 what that essentially means is that we're going to go over a handful of practices and lessons learned that I've picked up over the years of creating rich stateful UIs with component based javascript frameworks.
 and hopefully spare you some of the battle scars that I have.
 ---
-<!-- .slide: data-background-image="sponsors.png" -->
+<!-- .slide: data-background-image="images/sponsors.png" -->
 <!-- .slide: data-background-size="contain" -->
 ---
 
@@ -309,7 +309,7 @@ private void HandleSubmitClick()
 * [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
 
 ---
-<!-- .slide: data-background-image="where-to-put-state.jpg" -->
+<!-- .slide: data-background-image="images/where-to-put-state.jpg" -->
 <!-- .slide: data-background-size="contain" -->
 ---
 
@@ -654,7 +654,7 @@ That also means you could apply these techniques to those other frameworks if yo
 
 ---
 
-<!-- .slide: data-background-image="testing-libs.png" -->
+<!-- .slide: data-background-image="images/testing-libs.png" -->
 <!-- .slide: data-background-size="contain" -->
 
 ---

@@ -13,6 +13,9 @@ Note: Hi everyone, and thanks for coming to hear me talk about "Blazor best prac
 what that essentially means is that we're going to go over a handful of practices and lessons learned that I've picked up over the years of creating rich stateful UIs with component based javascript frameworks.
 and hopefully spare you some of the battle scars that I have.
 ---
+<!-- .slide: data-background-image="sponsors.png" -->
+<!-- .slide: data-background-size="contain" -->
+---
 
 ### About me
 

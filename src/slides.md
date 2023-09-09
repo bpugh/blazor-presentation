@@ -306,11 +306,11 @@ private void HandleSubmitClick()
   * "Place code as close to where it's relevant as possible"
 * [Lift state (react docs)](https://reactjs.org/docs/lifting-state-up.html) when necessary
   * "lift the shared state up to their closest common ancestor"
+* [State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)
 
 ---
 <!-- .slide: data-background-image="where-to-put-state.jpg" -->
 <!-- .slide: data-background-size="contain" -->
-[State Colocation will make your React app faster](https://kentcdodds.com/blog/state-colocation-will-make-your-react-app-faster)<!-- .element: class="fragment" -->
 ---
 
 ### Make impossible states impossible
@@ -786,10 +786,16 @@ mockedHttpClient.VerifyNoOutstandingExpectation();
 
 ### Resources
 
-* [99 Bottles — Sandi Metz](https://sandimetz.com/99bottles)
+* [99 Bottles — book by Sandi Metz](https://sandimetz.com/99bottles)
 * https://testing-library.com/docs/queries/about#priority (DOM query priority)
 * [Don't Sync State. Derive It](https://kentcdodds.com/blog/dont-sync-state-derive-it)
 * [Stop using isLoading booleans](https://kentcdodds.com/blog/stop-using-isloading-booleans)
+* [Blazor state management](https://jonhilton.net/blazor-state-management/)
+
+---
+### Resources cont.
+* [awesome-blazor](https://github.com/AdrienTorris/awesome-blazor)
+* [Fluxor](https://github.com/mrpmorris/Fluxor)
 * [How to Have an Amicable Breakup With A JavaScript Library | Youtube](https://www.youtube.com/watch?v=ZIIeBOLOgTw)
 
 

@@ -5,5 +5,8 @@
   },
   "dependencies": {
     "reveal-md": "^5.5.1"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.11.2"
   }
 }

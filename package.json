@@ -1,9 +1,13 @@
 {
   "scripts": {
     "watch": "reveal-md ./src/slides.md -w --highlight-theme vs2015 --template ./src/reveal-template.html",
+    "check-links": "markdown-link-check ./src/slides.md",
     "build": "reveal-md ./src/slides.md --highlight-theme vs2015 --template ./src/reveal-template.html --static _talk --static-dirs=./src/images"
   },
   "dependencies": {
     "reveal-md": "^5.5.1"
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.11.2"
   }
 }
